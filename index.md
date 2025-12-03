@@ -1,7 +1,7 @@
 
 # Luis Magallon's Portfolio
 
-I am a computer science major at CSUF and plan to graduate in 2029.
+Hello and welcome. I am a computer science major at CSUF.
 
 
 ## Favorite CPSC 120L Labs
